@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: "Pois o eesporte não interfere, você consegue ter a habilidade em uma de suas mãos. "
+                afirmacao: "Pois o esporte não interfere, você consegue ter a habilidade em uma de suas mãos. "
             },
             {
                 texto: "Não",
